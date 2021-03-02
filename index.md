@@ -1,5 +1,20 @@
 ## Welcome to GitHub Pages
 
+[Registration](Registration.html)
+[Log In](Log-In.html)
+[Log Out](Log-Out.html)
+[Username](Username.html)
+[Personal Quiz](Personal-Quiz.html)
+[Profile](Profile.html)
+[Matches](Matches.html)
+[Search Bar](Search-Bar.html)
+[Calendar](Calendar.html)
+[Block](Block.html)
+[Delete Account](Delete-Account)
+
+
+
+
 You can use the [editor on GitHub](https://github.com/Bren232/Dateful/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
