@@ -11,6 +11,7 @@
 [Calendar](Calendar.html)
 [Block](Block.html)
 [Delete Account](Delete-Account)
+[Thank you for registering](Thank-You-Registration.html)
 
 
 
